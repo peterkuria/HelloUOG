@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloUOG</string>
+    <string name="enter">Please enter your name</string>
+    <string name="press">Press Me!</string>
+</resources>
